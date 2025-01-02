@@ -1,7 +1,4 @@
 *.out
-*.elf
-*.bin
-*.so
-*.a
 *.o
+*.so
 *.exe
